@@ -1,2 +1,3 @@
 # coding-exercises
-Coding Exercises
+
+Some coding exercises, no refactoring, just a first pass solution.
