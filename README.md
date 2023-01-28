@@ -1,3 +1,3 @@
-# coding-exercises
+# ruby katas
 
-Some coding exercises, no refactoring, just a first pass solution.
+codewars katas with ruby
